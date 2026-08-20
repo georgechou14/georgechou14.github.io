@@ -1,7 +1,4 @@
-<center>
-  <font size="6">
-      George Chou
-</center>
+# George Chou, School of Economics, Zhejiang University
 
 Welcome to my GitHub website! I am George Chou.
 
